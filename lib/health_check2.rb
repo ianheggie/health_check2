@@ -1,4 +1,4 @@
-require "health_check_core/version"
+require "health_check2/version"
 
 module HealthCheckCore
   # Your code goes here...
